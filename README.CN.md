@@ -1,5 +1,5 @@
 # 汤加火山爆发对高层大气风场扰动的研究 🌋
-[![Website](https://img.shields.io/website?url=https%3A//ktwu01.github.io/Tonga-wind-2022)](https://ktwu01.github.io/Tonga-wind-2022/) [![GitHub stars](https://img.shields.io/github/stars/ktwu01/Tonga-wind-2022)](https://github.com/ktwu01/Tonga-wind-2022) [![GitHub forks](https://img.shields.io/github/forks/ktwu01/Tonga-wind-2022)](https://github.com/ktwu01/Tonga-wind-2022/fork) ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/Tonga-wind-2022)](https://github.com/ktwu01/Tonga-wind-2022) [![GitHub forks](https://img.shields.io/github/forks/ktwu01/Tonga-wind-2022)](https://github.com/ktwu01/Tonga-wind-2022/fork) ![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md)
 
