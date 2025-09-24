@@ -1,0 +1,30 @@
+---
+config:
+  theme: mc
+  look: classic
+---
+flowchart TD
+    0A(2022 Tonga Volcano Eruption)
+    0A-->A1
+    0A-->A2
+    A1(Different Latitude Meteor Radars) -->|Get original observational data| B(Data Analysis)
+    A2(WACCM-X Model) -->|Assume suitable initial disturbance| B1(Model Operation)
+    B --> C11(Retrieved Wind Field)
+    %% B --> C12(Retrieved Temperature)
+    %% B --> C13(Retrieved Density)
+    %% B --> C4(Data from Different Latitude Meteor Radars)
+    B1 --> C21(Simulated Wind Field)
+    %% B1 --> C22(Simulated Temperature)
+    %% B1 --> C23(Simulated Density)
+    %% B --> C4(Data from Different Latitude Meteor Radars)
+    C11 -->D1(Comparative Analysis)
+    %% C12 -->D2(Comparative Analysis)
+    %% C13 -->D3(Comparative Analysis)
+
+    C21 -->D1
+    %% C22 -->D2
+    %% C23 -->D3
+
+    D1 -->E1[Draw Conclusions]
+    %% D2 -->E1
+    %% D3 -->E1
