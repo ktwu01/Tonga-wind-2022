@@ -33,3 +33,13 @@ The High-resolution Whole Atmosphere Community Climate Model with thermosphere/i
 
 ## Funding
 - KW (Koutian Wu) funded by USTC Fellowship & X-Institute Senior Undergrad Research Fellow (SURF); budget: ~10k USD.
+
+---
+
+## Citation
+If you use this repository, please cite (see `CITATION.cff` for GitHub’s citation metadata):
+
+Perturbations by the 2022 Hunga-Tonga Volcano Eruption in the MLT Region Investigated Using the WACCM-X Simulation and Meteor Radar Observations  
+K Wu, HL Liu, W Yi, X Xue  
+AGU Fall Meeting Abstracts 2023 (2892), SA33B-2892  
+https://ui.adsabs.harvard.edu/abs/2023AGUFMSA33B2892W/abstract
