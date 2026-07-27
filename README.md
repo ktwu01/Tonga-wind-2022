@@ -43,3 +43,10 @@ Perturbations by the 2022 Hunga-Tonga Volcano Eruption in the MLT Region Investi
 K Wu, HL Liu, W Yi, X Xue  
 AGU Fall Meeting Abstracts 2023 (2892), SA33B-2892  
 https://ui.adsabs.harvard.edu/abs/2023AGUFMSA33B2892W/abstract
+
+---
+
+## Private Research Archive
+
+Project members with access can find the complete working materials in the
+[private Tonga-wind-2022 repository](https://github.com/ktwu01/Tonga-wind-2022-private).
